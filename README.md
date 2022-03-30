@@ -19,3 +19,8 @@ Areas of interest include:
 
 # Company Fundamentals
 
+# Technical Analysis
+
+# Technical Indicators
+
+# Backtesting Trading Strategies
